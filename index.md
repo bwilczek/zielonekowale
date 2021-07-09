@@ -12,4 +12,4 @@ Nasze działania skupiają się w następujących obszarach:
 * [Dolina Widawy](/widawa/)
 * Ogródki pomiędzy Czajczą a Szczyglą
 * Budowa dróg rowerowych
-* Doprowadzenie światłowodu (bonusowo)
+* Doprowadzenie światłowodu (jako dodatku do zieleni)
