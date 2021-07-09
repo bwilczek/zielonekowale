@@ -23,7 +23,8 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Standard usage
-    - uses:  helaili/jekyll-action@v2
+    - uses: bwilczek/jekyll-action@master
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
+        cname: zielonekowale.pl

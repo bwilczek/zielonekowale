@@ -9,7 +9,7 @@ layout: default
 
 Jesteśmy grupą mieszkańców Kowal, która postawiła sobie za cel zachowanie zielonego charakteru naszego osiedla.
 Nasze działania skupiają się w następujących obszarach:
-* [dolina Widawy](/widawa/)
+* [Dolina Widawy](/widawa/)
 * Ogródki pomiędzy Czajczą a Szczyglą
 * Budowa dróg rowerowych
 * Doprowadzenie światłowodu (bonusowo)
