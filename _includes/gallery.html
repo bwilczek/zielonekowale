@@ -3,9 +3,12 @@
 <div id="gallery_{{include.id}}" class="slick-carousel">
 {% for image in gallery %}
   <div>
-    <img class="gallery" src="{{image.path_mid}}" title="{{image.label}}" />
+    <img class="gallery" src="{{image.medium}}" title="{{image.label}}" />
     <div>{{image.label}}</div>
-    <a class="full-size-download" href="{{image.path_full}}" target="_blank">pełna rozdzielczość</a>
+    {% if image.desc %}
+    <div class="image-description">{{image.desc}}</div>
+    {% endif %}
+    <a class="full-size-download" href="{{image.full}}" target="_blank">pełna rozdzielczość</a>
   </div>
 {% endfor %}
 </div>
