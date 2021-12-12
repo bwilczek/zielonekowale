@@ -4,6 +4,11 @@ img.gallery {
 
 .full-size-download {
   display: block;
-  font-size: 10px;
+  font-size: 0.7em;
   color: #777;
+}
+
+.image-description {
+  display: block;
+  font-size: 0.88em;
 }

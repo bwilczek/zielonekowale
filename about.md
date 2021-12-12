@@ -4,4 +4,4 @@ title: O nas
 permalink: /o-nas/
 ---
 
-Pochodzimy z facebookowej grupy [Mieszkańcy Osiedla Kowale](https://www.facebook.com/groups/2144919969081040).
+Pochodzimy z facebookowej grupy [Zielone Kowale](https://www.facebook.com/groups/1513633858993103).

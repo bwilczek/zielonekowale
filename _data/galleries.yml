@@ -1,0 +1,89 @@
+przebudowa-drogi:
+  - label: Osiedle Gaj 1994
+    thumb: https://i.ibb.co/k3zwmLP/gaj-94.png
+    medium: https://i.ibb.co/VHbzwFk/gaj-94.png
+    full: https://i.ibb.co/jVqQJCj/gaj-94.png
+    external: https://ibb.co/k3zwmLP
+  - label: Osiedle Gaj 2020
+    thumb: https://i.ibb.co/02kVHmh/gaj-20.png
+    medium: https://i.ibb.co/wgTr5BM/gaj-20.png
+    full: https://i.ibb.co/54dxbGB/gaj-20.png
+    external: https://ibb.co/02kVHmh
+  - label: Grota-Roweckiego 1994
+    thumb: https://i.ibb.co/jbvq7sJ/grota-94.png
+    medium: https://i.ibb.co/34yVtQR/grota-94.png
+    full: https://i.ibb.co/PFZJB0D/grota-94.png
+    external: https://ibb.co/jbvq7sJ
+  - label: Grota-Roweckiego 2020
+    thumb: https://i.ibb.co/dgkDdpf/grota-20.png
+    medium: https://i.ibb.co/YZfhzdN/grota-20.png
+    full: https://i.ibb.co/16RTDX0/grota-20.png
+    external: https://ibb.co/dgkDdpf
+  - label: Jagodno 1994
+    thumb: https://i.ibb.co/yRxg94c/jagodno-94.png
+    medium: https://i.ibb.co/cvs2BYS/jagodno-94.png
+    full: https://i.ibb.co/LPs9FNX/jagodno-94.png
+    external: https://ibb.co/yRxg94c
+  - label: Jagodno 2020
+    thumb: https://i.ibb.co/vcGjbQN/jagodno-20.png
+    medium: https://i.ibb.co/NFPyXm0/jagodno-20.png
+    full: https://i.ibb.co/6yxW21K/jagodno-20.png
+    external: https://ibb.co/vcGjbQN
+  - label: Zwycięska 1994
+    thumb: https://i.ibb.co/K68g5Rp/zwycieska-94.png
+    medium: https://i.ibb.co/MnJHgWx/zwycieska-94.png
+    full: https://i.ibb.co/zstgmjT/zwycieska-94.png
+    external: https://ibb.co/K68g5Rp
+  - label: Zwycięska 2020
+    thumb: https://i.ibb.co/Q9FM1rN/zwycieska-20.png
+    medium: https://i.ibb.co/7vJK62W/zwycieska-20.png
+    full: https://i.ibb.co/CB5QTh7/zwycieska-20.png
+    external: https://ibb.co/Q9FM1rN
+  - label: FAT 1994
+    thumb: https://i.ibb.co/Yjr9CJJ/fat-94.png
+    medium: https://i.ibb.co/ggn12QQ/fat-94.png
+    full: https://i.ibb.co/5c7D0CC/fat-94.png
+    external: https://ibb.co/Yjr9CJJ
+  - label: FAT 2020
+    thumb: https://i.ibb.co/FhYwkWs/fat-20.png
+    medium: https://i.ibb.co/Zfg8RJH/fat-20.png
+    full: https://i.ibb.co/S6mnDxQ/fat-20.png
+    external: https://ibb.co/FhYwkWs
+suburbia:
+  - label: Los Angeles
+    desc: Amerykańskie przedmieście zorientowane na transport indywidualny
+    thumb: https://i.ibb.co/tHdhV20/la.webp
+    medium: https://i.ibb.co/WHT3mzr/la.webp
+    full: https://i.ibb.co/grn7kW0/la.webp
+    external: https://ibb.co/tHdhV20
+  - label: London/Harrow
+    desc: Brytyjskie przedmieście zorientowane na transport zbiorowy
+    thumb: https://i.ibb.co/2WYtDVp/harrow.png
+    medium: https://i.ibb.co/djJ2dCH/harrow.png
+    full: https://i.ibb.co/jbZMc0j/harrow.png
+    external: https://ibb.co/2WYtDVp
+kowale_studium:
+  - label: Z lotu ptaka 2020
+    desc: Widok z góry na osiedle w 2020
+    thumb: https://i.ibb.co/mXzbyyW/kowale-aerial.png
+    medium: https://i.ibb.co/3Mh4FFZ/kowale-aerial.png
+    full: https://i.ibb.co/TbhY003/kowale-aerial.png
+    external: https://ibb.co/mXzbyyW
+  - label: Z lotu ptaka w przyszłości
+    desc: Widok z góry na osiedle w przyszłości zaplanowanej w Studium 
+    thumb: https://i.ibb.co/8dK00Rt/export-kowale-studium-aerial.png
+    medium: https://i.ibb.co/jW6TTxs/export-kowale-studium-aerial.png
+    full: https://i.ibb.co/F0xKKfC/export-kowale-studium-aerial.png
+    external: https://ibb.co/8dK00Rt
+  - label: Studium, przeznaczenie terenów
+    desc: Przeznaczenie terenów według Studium
+    thumb: https://i.ibb.co/Pw2v970/kowale-studium.png
+    medium: https://i.ibb.co/18CtdDj/kowale-studium.png
+    full: https://i.ibb.co/LnTXJLH/kowale-studium.png
+    external: https://ibb.co/Pw2v970
+  - label: Studium, komunikacja
+    desc: Plany rozwoju sieci dróg według Studium
+    thumb: https://i.ibb.co/vvrbm7x/kowale-studium-transport.png
+    medium: https://i.ibb.co/wrbTC9N/kowale-studium-transport.png
+    full: https://i.ibb.co/qF4z9tM/kowale-studium-transport.png
+    external: https://ibb.co/vvrbm7x

@@ -3,9 +3,12 @@ permalink: /widawa/
 title: Dolina Widawy
 exclude: true
 layout: default
+author: Bartek Wilczek
+date: 2021.06.01
 ---
 
 # {{ page.title }}
+##### {{ page.author }}, {{ page.date }}
 
 Niniejszy tekst opisuje ryzyko utraty terenów zielonych nad Widawą w wyniku budowy Trasy Swojczyckiej w przebiegu przewidzianym w obowiązującym Studium.
 Aby zachować charakter doliny Widawy w niniejszym opracowaniu proponuje się alternatywny przebieg tej trasy.
