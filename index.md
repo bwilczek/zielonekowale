@@ -15,7 +15,10 @@ które będziemy chcieli wprowadzać w życie we współpracy z Radą Osiedla.
 Poniżej lista przygotowanych opracowań:
 * [Dolina Widawy](/widawa/): zagrożona oaza zieleni
 * [Auto w mieście](/auto_w_miescie/), czyli skąd się biorą korki?
+* [Łącznik Kwidzyńska-Kowalska](/lacznik-kwidzynska-kowalska/), czyli jak wyprowadzić ruch z osiedla nie psując terenów zielonych?
 
 W opracowaniu znajdują się teksty na kolejne tematy:
-* Ogródki pomiędzy Czajczą a Szczyglą
-* Budowa dróg rowerowych
+* Budowa ścieżek pieszo-rowerowych wzdłuż ulic Kowalskiej i Kwidzyńskiej
+* Ochrona terenów zielonych wraz z ich uporządkowaniem i utworzeniem Parku Kowale w obrębie ulic Szczygla, Olsztyńska, Kowalska, Czajcza, Kwidzyńska
+* Rewitalizacja terenów wzdłuż kanału żeglugowego wraz z utworzeniem ścieżek pieszo-rowerowych (odcinek od Mostów Jagiellońskich do Mostów Chrobrego)
+* Trasa zero-emisyjna (tramwajowo-rowerowo-piesza) łącząca Zalesie z Psim Polem
