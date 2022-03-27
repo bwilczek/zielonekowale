@@ -70,7 +70,7 @@ kowale_studium:
     full: https://i.ibb.co/TbhY003/kowale-aerial.png
     external: https://ibb.co/mXzbyyW
   - label: Z lotu ptaka w przyszłości
-    desc: Widok z góry na osiedle w przyszłości zaplanowanej w Studium 
+    desc: Widok z góry na osiedle w przyszłości zaplanowanej w Studium
     thumb: https://i.ibb.co/8dK00Rt/export-kowale-studium-aerial.png
     medium: https://i.ibb.co/jW6TTxs/export-kowale-studium-aerial.png
     full: https://i.ibb.co/F0xKKfC/export-kowale-studium-aerial.png
@@ -87,3 +87,34 @@ kowale_studium:
     medium: https://i.ibb.co/wrbTC9N/kowale-studium-transport.png
     full: https://i.ibb.co/qF4z9tM/kowale-studium-transport.png
     external: https://ibb.co/vvrbm7x
+park_zielone_kowale_spacer:
+  - label: Widok 1
+    thumb: https://i.ibb.co/BBKgcsw/10-Park-Kowale-2.jpg
+    medium: https://i.ibb.co/YhTtPjb/10-Park-Kowale-2.jpg
+    full: https://i.ibb.co/6FJ4rsN/10-Park-Kowale-2.jpg
+    external: https://ibb.co/BBKgcsw
+  - label: Widok 2
+    thumb: https://i.ibb.co/b12C0Bh/11-Park-Kowale-5.jpg
+    medium: https://i.ibb.co/kK9w78n/11-Park-Kowale-5.jpg
+    full: https://i.ibb.co/ZdYFj8s/11-Park-Kowale-5.jpg
+    external: https://ibb.co/b12C0Bh
+  - label: Widok 3
+    thumb: https://i.ibb.co/znz6zMv/12-Park-Kowale-7.jpg
+    medium: https://i.ibb.co/f1sDsgw/12-Park-Kowale-7.jpg
+    full: https://i.ibb.co/ngFPFGJ/12-Park-Kowale-7.jpg
+    external: https://ibb.co/znz6zMv
+  - label: Widok 4
+    thumb: https://i.ibb.co/chqXsMC/13-Park-Kowale-8.jpg
+    medium: https://i.ibb.co/4Rkg09Y/13-Park-Kowale-8.jpg
+    full: https://i.ibb.co/nMp8KZn/13-Park-Kowale-8.jpg
+    external: https://ibb.co/chqXsMC
+  - label: Widok 5
+    thumb: https://i.ibb.co/vVmBk1X/14-Park-Kowale-10.jpg
+    medium: https://i.ibb.co/Kb7GW6K/14-Park-Kowale-10.jpg
+    full: https://i.ibb.co/xXGs6hF/14-Park-Kowale-10.jpg
+    external: https://ibb.co/vVmBk1X
+  - label: Widok 6
+    thumb: https://i.ibb.co/pXMDfRV/15-Park-Kowale-12.jpg
+    medium: https://i.ibb.co/s3NSK6x/15-Park-Kowale-12.jpg
+    full: https://i.ibb.co/cTZ56Cf/15-Park-Kowale-12.jpg
+    external: https://ibb.co/pXMDfRV
