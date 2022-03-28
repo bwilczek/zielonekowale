@@ -38,7 +38,7 @@ przekraczający 10 hektarów to park Szczytnicki, którego dostępność mieszka
 przebieg Kanałów Żeglugowego i Powodziowego oraz duży dystans.
 
 Ogólnodostępna, nieuporządkowana zieleń rekreacyjna w ramach wałów przeciwpowodziowych nad
-rozlewiskiem Widawy jest słabo dostępna dla większości mieszkaoców Kowal zachodnich i środkowych
+rozlewiskiem Widawy jest słabo dostępna dla większości mieszkańców Kowal zachodnich i środkowych
 z powodu bariery linii kolejowej, zaś tereny zielone nad Kanałem Żeglugowym są niemal całkowicie
 niedostępne dla pieszych i rowerzystów z uwagi na barierę zabudowy przemysłowej i poprzemysłowej.
 
@@ -49,7 +49,7 @@ Cechuje się unikalnym ukształtowaniem terenu i różnorodną zielenią, która
 oraz korytarzem przyrodniczym dla ssaków i płazów. Przebiega przezeń historyczna ścieżka gruntowa
 uwzględniona w Studium 2018 jako trasa rowerowa rekreacyjna o potocznej nazwie „ul. Czapla” ze
 szczególnie atrakcyjnym fragmentem biegnącym od krańca ulicy Mokrej do Stadionu FC Wrocław
-Academy. W XX w. uwagi na pobliską lokalizację przemysłu ciężkiego (skażenie gruntu odpadami) i
+Academy. W XX w. z uwagi na pobliską lokalizację przemysłu ciężkiego (skażenie gruntu odpadami) i
 wysoką wilgotność gleby teren ten był wyłączony z zabudowy. Ogółem Interior jest i współcześnie w
 niewielkim stopniu dostępny dla pieszych i rowerzystów. Cały obszar znajduje się też w strefie
 ochrony konserwatorskiej zabytków archeologicznych, a układ kompozycyjny tego terenu pozostaje
@@ -81,7 +81,7 @@ dla Kowal Ptasich jest „wspieranie rozwoju usług o charakterze rekreacyjnym�
 
 Wskazane powyżej obszary o powierzchniach 6,78 ha oraz 6,04 ha (łącznie 12,82 ha) rozciągają się
 od ul. Kwidzyńskiej na południu do ul. Olsztyńskiej na północy oraz od projektowanej trasy zbiorczej
-74 (Z74, oznaczonej na Planie jako 1.KZ), a także dróg 5.KL i 6.KL na wschodzie do zabudowao mieszkalnych
+74 (Z74, oznaczonej na Planie jako 1.KZ), a także dróg 5.KL i 6.KL na wschodzie do zabudowań mieszkalnych
 Kowal Ptasich na zachodzie. Teren parku przecina droga osiedlowa oznaczona jako 7.KL.
 
 Postulujemy w obrębie parku o:
@@ -95,7 +95,7 @@ Postulujemy w obrębie parku o:
 Zabezpieczenie wskazanego terenu w zasobach gminy Wrocław i wytyczenie pełnowymiarowego
 parku odpowiada potrzebom rosnącego osiedla i zabezpiecza cenny przyrodniczo teren przed
 bezpowrotnym zniszczeniem. Pomysł parku został zainspirowany przez mieszkańców osiedla Kowale i
-wynika z potrzeby łatwo dostępnego dla większości mieszkaoców terenu zieleni rekreacyjnej oraz
+wynika z potrzeby łatwo dostępnego dla większości mieszkańców terenu zieleni rekreacyjnej oraz
 troski o lokalną przyrodę. Projekt był dyskutowany w ramach konsultacji społecznych, które wskazały
 tę lokalizację jako optymalną. Nazwa „Spokojny Las” nawiązuje do nazwy osiedla Kowale funkcjonującej krótko w XX wieku.
 
