@@ -13,8 +13,9 @@ Niniejsza witryna jest miejcem publikacji naszych obserwacji i proponowanych roz
 które będziemy chcieli wprowadzać w życie we współpracy z Radą Osiedla.
 
 Poniżej lista przygotowanych opracowań:
+* [Skazani na beton](/skazani_na_beton/), czyli jak MPZP pozwala zabetonować nasze osiedle
 * [Dolina Widawy](/widawa/): zagrożona oaza zieleni
-* [Auto w mieście](/auto_w_miescie/), czyli skąd się biorą korki?
+* [Auto w mieście](/auto_w_miescie/), czyli skąd się biorą korki
 * [Park Spokojny Las](/park_spokojny_las/), czyli ochrona i uporządkowanie terenów zielonych w obrębie ulic Szczygla, Olsztyńska, Kowalska, Czajcza, Kwidzyńska
 
 W opracowaniu znajdują się teksty na kolejne tematy:

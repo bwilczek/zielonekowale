@@ -118,3 +118,126 @@ park_zielone_kowale_spacer:
     medium: https://i.ibb.co/s3NSK6x/15-Park-Kowale-12.jpg
     full: https://i.ibb.co/cTZ56Cf/15-Park-Kowale-12.jpg
     external: https://ibb.co/pXMDfRV
+beton_inwestycja_a:
+  - label: Mapa bazowa z położeniem inwestycji
+    desc: W tle warstwa mapy z MPZP z sugerowanym podziałem geodezyjnym
+    thumb: https://i.ibb.co/tmv3My5/mapa-baza.png
+    medium: https://i.ibb.co/981G9Rj/mapa-baza.png
+    full: https://i.ibb.co/w0PYND1/mapa-baza.png
+    external: https://ibb.co/tmv3My5
+  - label: Zdjęcie lotnicze inwestycji
+    desc: Widoczny brak drzew w jej obrębie
+    thumb: https://i.ibb.co/YjTP7q3/mapa-foto.png
+    medium: https://i.ibb.co/h81LRty/mapa-foto.png
+    full: https://i.ibb.co/BsKcVSt/mapa-foto.png
+    external: https://ibb.co/YjTP7q3
+  - label: Mapa MPZP
+    desc: Widoczny sugerowany podział geodezyjny
+    thumb: https://i.ibb.co/C6ffdgz/mapa-mpzp.png
+    medium: https://i.ibb.co/Jq99LVK/mapa-mpzp.png
+    full: https://i.ibb.co/pQSSDcx/mapa-mpzp.png
+    external: https://ibb.co/C6ffdgz
+  - label: Zalecany rozmiar działki
+    desc: ok. 1500m2
+    thumb: https://i.ibb.co/M18t2WJ/mapa-mpzp-rozmiar-zalecany.png
+    medium: https://i.ibb.co/FYsyxNd/mapa-mpzp-rozmiar-zalecany.png
+    full: https://i.ibb.co/VCHzjrk/mapa-mpzp-rozmiar-zalecany.png
+    external: https://ibb.co/M18t2WJ
+  - label: Faktyczny rozmiar działki
+    desc: ok. 125m2
+    thumb: https://i.ibb.co/gydtqvJ/mapa-foto-rozmiar-fakt.png
+    medium: https://i.ibb.co/Y2XfnDh/mapa-foto-rozmiar-fakt.png
+    full: https://i.ibb.co/CB6VCJQ/mapa-foto-rozmiar-fakt.png
+    external: https://ibb.co/gydtqvJ
+  - label: Dziedziniec z ażurowego bruku
+    desc: Kosta brukowa typu Meba oraz zielone tarasy w roli powierzchni biologicznie czynnej. Wysokiej zieleni brak.
+    thumb: https://i.ibb.co/YtmLCKF/Wn-trze.jpg
+    medium: https://i.ibb.co/gDNR2XL/Wn-trze.jpg
+    full: https://i.ibb.co/7GP1fTd/Wn-trze.jpg
+    external: https://ibb.co/YtmLCKF
+  - label: Małe ogródki widziane od ulicy
+    desc: Skromna ilość własnej zieleni (ok 30m2) skłania mieszkańców do szczelnego odcięcia swojej przestrzeni od ulicy.
+    thumb: https://i.ibb.co/F71NMKC/Ma-e-ogr-dki-odgrodzone-od-ulicy.jpg
+    medium: https://i.ibb.co/kcTkfxv/Ma-e-ogr-dki-odgrodzone-od-ulicy.jpg
+    full: https://i.ibb.co/j4YB2Ts/Ma-e-ogr-dki-odgrodzone-od-ulicy.jpg
+    external: https://ibb.co/F71NMKC
+beton_inwestycja_b:
+  - label: Mapa bazowa
+    desc: Widoczne trzy domy w na dwóch działkach oryginalnie jednorodzinnych
+    thumb: https://i.ibb.co/hWpcDPr/mapa-baza-mpzp.png
+    medium: https://i.ibb.co/fpm94hZ/mapa-baza-mpzp.png
+    full: https://i.ibb.co/4TB2P6C/mapa-baza-mpzp.png
+    external: https://ibb.co/hWpcDPr
+  - label: Zdjęcie lotnicze inwestycji
+    desc: Brak drzew i miejsca na nie w jej obrębie
+    thumb: https://i.ibb.co/xm3W1hw/mapa-Foto-MPZP.png
+    medium: https://i.ibb.co/hXCbBsr/mapa-Foto-MPZP.png
+    full: https://i.ibb.co/yhVt60K/mapa-Foto-MPZP.png
+    external: https://ibb.co/xm3W1hw
+  - label: mapa MPZP
+    desc: Widoczny podział na dwie działki pod zabudowę jednorodzinną
+    thumb: https://i.ibb.co/YtBckDz/mapa-MPZP.png
+    medium: https://i.ibb.co/GVQW2sK/mapa-MPZP.png
+    full: https://i.ibb.co/0fyCMBg/mapa-MPZP.png
+    external: https://ibb.co/YtBckDz
+  - label: Oryginalny rozmiar działki pod zabudowę jednorodzinną
+    desc: ok. 400m2
+    thumb: https://i.ibb.co/jyKkjxf/mapa-baza-rozmiar-plan.png
+    medium: https://i.ibb.co/v354Mrq/mapa-baza-rozmiar-plan.png
+    full: https://i.ibb.co/sKS9XDR/mapa-baza-rozmiar-plan.png
+    external: https://ibb.co/jyKkjxf
+  - label: Faktyczny rozmiar działki dla domu dwulokalowego
+    desc: ok. 205m2
+    thumb: https://i.ibb.co/nQrC6bB/mapa-baza-rozmiar-fakt.png
+    medium: https://i.ibb.co/gtyVm3d/mapa-baza-rozmiar-fakt.png
+    full: https://i.ibb.co/dkBgjrt/mapa-baza-rozmiar-fakt.png
+    external: https://ibb.co/nQrC6bB
+  - label: Nasadzenia zastępcze
+    desc: Po trzech latach dwa drzewka jest utrzymywane przez mieszkańców, trzecie jest martwe.
+    thumb: https://i.ibb.co/n0KLQhc/Nasadzenia-zast-pcze.jpg
+    medium: https://i.ibb.co/dcH5kn2/Nasadzenia-zast-pcze.jpg
+    full: https://i.ibb.co/7z01r7W/Nasadzenia-zast-pcze.jpg
+    external: https://ibb.co/n0KLQhc
+  - label: Ogródki powierzchni od 60 do 120m2 na dwa lokale
+    desc: Zbyt małe na utrzymanie zieleni wysokiej
+    thumb: https://i.ibb.co/wCXVP1Y/Ma-e-ogr-dki.jpg
+    medium: https://i.ibb.co/gwpNfC6/Ma-e-ogr-dki.jpg
+    full: https://i.ibb.co/GkLy8jF/Ma-e-ogr-dki.jpg
+    external: https://ibb.co/wCXVP1Y
+beton_inwestycja_c:
+  - label: Mapa bazowa
+    desc: Rozmiar działki planowanej pod zabudowę jednorodzinną to ok. 970m2
+    thumb: https://i.ibb.co/L5mDDPC/mapa-baza-rozmiar.png
+    medium: https://i.ibb.co/3z255s0/mapa-baza-rozmiar.png
+    full: https://i.ibb.co/rsYKKtZ/mapa-baza-rozmiar.png
+    external: https://ibb.co/L5mDDPC
+  - label: Zjęcie lotnicze
+    desc: Miejsce planowane dla jednego domu zajmują cztery
+    thumb: https://i.ibb.co/tZfBjvp/mapa-foto.png
+    medium: https://i.ibb.co/xmvh9Bq/mapa-foto.png
+    full: https://i.ibb.co/hX5sQ4F/mapa-foto.png
+    external: https://ibb.co/tZfBjvp
+  - label: Mapa MPZP
+    desc: Miejsce planowane dla jednego domu
+    thumb: https://i.ibb.co/vJF1w7R/mapa-mpzp.png
+    medium: https://i.ibb.co/kh7KHRv/mapa-mpzp.png
+    full: https://i.ibb.co/Q6g9b2t/mapa-mpzp.png
+    external: https://ibb.co/vJF1w7R
+  - label: Kostka Meba
+    desc: Droga dojazdowa będąca powierzchnią biologicznie czynną zajmuje 168m2
+    thumb: https://i.ibb.co/fxZLs3h/Meba.jpg
+    medium: https://i.ibb.co/G5GNqZK/Meba.jpg
+    full: https://i.ibb.co/sVczZT0/Meba.jpg
+    external: https://ibb.co/fxZLs3h
+  - label: Całe miejsce przed domami jest utwardzone
+    desc: Brak miejsca na zieleń
+    thumb: https://i.ibb.co/tQcn1nm/Brak-zieleni-z-przodu.jpg
+    medium: https://i.ibb.co/4KMC0Cm/Brak-zieleni-z-przodu.jpg
+    full: https://i.ibb.co/VJDbkbj/Brak-zieleni-z-przodu.jpg
+    external: https://ibb.co/tQcn1nm
+  - label: Ogródki nie sprzyjające wysokiej zieleni
+    desc: Środkowe domy mają ogrórki ok 25m2, skrajne ok. 40m2 i 120m2
+    thumb: https://i.ibb.co/cgw9xQx/Ma-e-ogr-dki-z-ty-u.jpg
+    medium: https://i.ibb.co/FxX1nzn/Ma-e-ogr-dki-z-ty-u.jpg
+    full: https://i.ibb.co/NVrq7K7/Ma-e-ogr-dki-z-ty-u.jpg
+    external: https://ibb.co/cgw9xQx
