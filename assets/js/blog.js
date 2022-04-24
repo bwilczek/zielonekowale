@@ -4,4 +4,8 @@ $(document).ready(function(){
     lazyLoad: 'ondemand',
     dots: true
   });
+
+  $('.collapsible-control').click(function(e){
+    $(e.target).siblings().filter('div.collapsible-content').toggle()
+  });
 });
