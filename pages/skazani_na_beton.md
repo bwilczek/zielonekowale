@@ -11,13 +11,13 @@ date: 2022.04.16
 ##### {{ page.author }}, {{ page.date }}
 
 Niniejszy tekst opisuje jak nieprecyzyjne zapisy miejscowego planu zagospodarowania przestrzennego pozwalają
-inwestorom w majestacie prawa obchodzić wytyczne dotyczące gęstości zabudowy i powierzchi zielonych.
+inwestorom w majestacie prawa obchodzić wytyczne dotyczące gęstości zabudowy i powierzchni zielonych.
 
-Skupimy się na trzech przykładach inwestycji powstałych w obszarze nazwanym [stosownej uchwale MPZP](http://uchwaly.um.wroc.pl/uchwala.aspx?numer=XXIX/2255/04)
+Skupimy się na trzech przykładach inwestycji powstałych w obszarze nazwanym w [stosownej uchwale MPZP](http://uchwaly.um.wroc.pl/uchwala.aspx?numer=XXIX/2255/04)
 `Kowale II, część wschodnia`, a oznaczonym na mapach w geoportalu liczbą `267`.
-W Studium oszar ten nazywa się `Kowale` i nosi oznaczenie `C10`
+W Studium obszar ten nazywa się `Kowale` i nosi oznaczenie `C10`.
 
-Stwierdzona empirycznie relacja pomiędzy Studium, MPZP a realizacją może być najprościej przedstawiona graficznie w następujący sposób.
+Stwierdzona empirycznie relacja pomiędzy Studium, MPZP a realizacją może być najprościej przedstawiona graficznie w następujący sposób:
 ![Teoria i praktyka](https://i.ibb.co/kyLJs32/studium-klient-meme.png "Teoria i praktyka"){:.center}
 
 > info "Uwaga"
@@ -26,13 +26,13 @@ Stwierdzona empirycznie relacja pomiędzy Studium, MPZP a realizacją może być
 > Inwestor działa w granicach prawa i jego interesem jest realizacja zysku - nie troska o zieleń, krajobraz, czy uliczne korki.
 > Mieszkańcy również nie są winni zaistniałej sytuacji kupując w dobrej wierze mieszkania położone w dogodnej lokalizacji i dające namiastkę prywatnej zieleni.
 > To Urząd, będąc autorem obowiązującego prawa ponosi odpowiedzialność za zrównoważony rozwój miasta, jego krajobraz i dostępność zieleni.
-> Tylko Urząd jest w stanie doprowadzić obowiązujące przepisy do kształu, który pozwoli na realizację wizji, którą ten sam Urząd kreśli w Studium.
+> Tylko Urząd jest w stanie doprowadzić obowiązujące przepisy do kształtu, który pozwoli na realizację wizji, którą ten sam Urząd kreśli w Studium.
 
 ## Teoria
 
 ### Studium uwarunkowań i kierunków zagospodarowania przestrzennego Wrocławia
 
-Studium jest dokumentem będący koncepcyjną bazą do tworzenia szczegółowych regulacji prawnych w zakresie planowania przestrzennego.
+Studium jest dokumentem będącym koncepcyjną bazą do tworzenia szczegółowych regulacji prawnych w zakresie planowania przestrzennego.
 Aktualnie obowiązujące zostało opublikowane w 2018 i dla zagospodarowania Kowal przewiduje zamieszkiwanie indywidualne i styl sielski.
 
 <div class="collapsible-wrapper">
@@ -147,36 +147,36 @@ Jest to jednak złudzenie, które pryska w pierwszym kontakcie z działem prawny
 ## Praktyka
 
 Praktyka firm deweloperskich obnaża prawne nieścisłości zapisów MPZP, które sprawiają,
-że wytyczne na temat rozmiarów działek i ich zazielenienia są bardzo proste do obejścia.
+że wytyczne dotyczące rozmiarów działek i ich zazielenienia są bardzo proste do obejścia.
 
 Jako że teren zielony nie jest źródłem zysku w interesie dewelopera jest minimalizacja jego udziału w realizowanych inwestycjach
 przy jednoczesnej maksymalizacji powierzchni mieszkalnej. Nie wynika to ze złej woli, ale biznesowej racji bytu.
 
-Do utrzymania sielskiego charakteru osiedla wymagane są dwa parametry:
-* minimalna wielkość działki
-* udział zieleni (powierzchnia biologicznie czynna i zieleń wysoka)
+Do utrzymania sielskiego charakteru osiedla wymagane jest zapewnienie odpowiednio dużych wartości dla dwóch parametrów:
+* minimalnej wielkość działki
+* udziału zieleni (powierzchnia biologicznie czynna i zieleń wysoka)
 
-Poniżej przedstawiono omówienie kilku stosowanych od lat sztuczek prawnych, pozwalających na kreatywną interpretację powyższych parametrów.
-Efekt jest taki, że zamiast miasta-ogrodu powstaje na Kowalach miasto-parking.
+Poniżej przedstawiono omówienie kilku stosowanych od lat sztuczek prawnych, pozwalających na kreatywne sposoby obliczania powyższych parametrów.
+W efekcie zamiast miasta-ogrodu powstaje na Kowalach miasto-parking.
 
 * **Współudział we własności gruntu.**
   Regulacje dotyczące minimalnej powierzchni działki dotyczą tylko nowych podziałów geodezyjnych. Świadomy tego inwestor nie będzie przeprowadzał
-  takiego podziału. Konsekwencją dla mieszkańców jest niemożność posiadania na właność gruntu, na którym stoi ich nieruchomość.
-  Ponadto niewielkie rozmiary przydomowych ogródków (nierzadko 20-30m2) eliminują z nich zupełnie zieleń wysoką jako potrzebującą większej przestrzeni.
+  takiego podziału. Konsekwencją dla mieszkańców jest niemożność posiadania na własność gruntu, na którym stoi ich nieruchomość.
+  Ponadto niewielkie rozmiary przydomowych ogródków (nierzadko 20-30m2) eliminują z nich zupełnie zieleń wysoką, jako potrzebującą większej przestrzeni.
 * **Domy jednorodzinne, wielolokalowe.**
-  Pojęcie to łatwo zrozumieć myśląć o rodzinie wielopokoleniowej, gdzie dzieci wydzielają fragment większego domu na niezależne, własne mieszkanie.
-  Współczesny deweloper buduje domy wielolokalowe (maksymalnie czterolokalowe) mieszcząc się w prawnych ramach budownictwa jednorodzinnego.
+  Pojęcie to łatwo zrozumieć myśląć o rodzinie wielopokoleniowej, w której dzieci wydzielają fragment większego domu na niezależne, własne mieszkanie.
+  Współczesny deweloper zatem buduje domy wielolokalowe (maksymalnie czterolokalowe) mieszcząc się w ramach prawnych dotyczących budownictwa jednorodzinnego.
   Szersze omówienie zjawiska można znaleźć w [niniejszym artykule](https://www.rp.pl/nieruchomosci/art16619471-kiedy-dom-jednorodzinny-moze-miec-cztery-lokale).
 * **Wliczanie do powierzchni biologicznie czynnej ażurowego bruku.**
-  Według prawa ażurowy bruk może być wliczany do powierzchni biologicznie czynnej. To sprawia, że zabrukowana w ten sposób droga dojazdowa i miejsce postojowe
+  Według prawa ażurowy bruk może być wliczany do powierzchni biologicznie czynnej. To sprawia, że zabrukowana w ten sposób droga dojazdowa i miejsca postojowe
   są powierzchnią biologicznie czynną. Możliwe, że wyrośnie tam kiedyś mech i zamieszkają drobne insekty, a woda będzie miała jak przesiąkać,
   jednak z perspektywy mieszkańców trudno uznać taką powierzchnię za jakąkolwiek formę zieleni.
 * **Wliczanie do powierzchni biologicznie czynnej tarasowej/dachowej zieleni ekstensywnej.**
-  Podobnie jak ażurowy bruk zieleń ekstensywna na dachu budynku wlicza się do powierzchni biologicznie czynnej.
+  Podobnie jak ażurowy bruk zieleń ekstensywna na dachu budynku również wlicza się do powierzchni biologicznie czynnej.
   Podobnie jak powyżej korzyść z takiego rozwiązania dla mieszkańców jest pomijalna.
 * **Nasadzenia zastępcze.**
   Za każde wycięte drzewo inwestor jest zobowiązany do przeprowadzenia nasadzeń zastępczych. Niestety wiążą się z tym dwa problemy:
-  * Nowo posadzone drzewo będzie w stanie spełnić funkcję wyciętego 20-letniego drzewa po upływie 20 lat.
+  * Nowo posadzone drzewo będzie w stanie pełnić funkcję wyciętego 20-letniego drzewa po upływie 20 lat.
     Mowa o retencji, cieniu, izolacji akustycznej, filtrowaniu powietrza, czy wreszcie walorach wizualnych.
   * Nie ma możliwości egzekwowania przez Urząd faktycznego utrzymania nasadzeń zastępczych. Niejednokrotnie po odbiorze inwestycji
     nasadzenia zastępcze obumierają pozbawione opieki. Odpowiedzialność prawna za utrzymania tych nasadzeń jest rozmyta.
@@ -225,12 +225,12 @@ stając się zakorkowanym przedmieściem bardziej przypominającym parking niż 
 Skutki opisanej sytuacji należy rozpatrywać w kilku aspektach:
 * **Prawny.**
   Trudno ufać Urzędowi jako instytucji tworzącej prawo. Czytając regulacje można (i należy) spodziewać się zachowania sielskiego
-  charakteru osiedla, podczas gdy faktycznie Urząd pozwala w majestacje prawa zabetonować niemal każdą działkę. Sytuacja taka nie
+  charakteru osiedla, podczas gdy faktycznie Urząd pozwala w majestacje prawa zabetonować niemal każdą działkę budowlaną. Sytuacja taka nie
   zachęca indywidualnych nabywców do kupna na Kowalach działki z myślą o faktycznej zabudowie jednorodzinnej,
   ponieważ działki sąsiednie mogą w nadchodzących latach przyjąć kształt zabudowy *de facto* wielorodzinnej.
 * **Ekonomiczny.**
   Możliwość tworzenia zabudowy *de facto* wielorodzinnej sprawia, że ceny działek rosną do kwot dostępnych tylko dla
-  podmiotów biznesowych, dysponujących dużym budżetem. Firmy deweloperskie konkurują pomiędzy sobą o miejsce budowy kolejnych
+  podmiotów biznesowych, dysponujących dużym finansowaniem. Firmy deweloperskie konkurują pomiędzy sobą o miejsca budowy kolejnych
   szeregówek windując cenę za metr kwadratowy działki do poziomu sprawiającego, że budowa domu faktycznie jednorodzinego jest
   dostępna tylko dla garstki naprawdę bogatych ludzi, mogących możliwościami finansowymi konkurować z deweloperami.
 * **Środowiskowy.**
@@ -268,7 +268,7 @@ Zmiany w prawie należy przeprowadzić na dwóch frontach:
 * Obrona przed zagęszczeniem
   * Opróćz niemożliwej do wymuszenia parcelacji ustalić w MPZP *Wskaźnik intensywności zabudowy*
     na poziomie zapewniającym rację bytu faktycznej zieleni.
-  * Alernatywnie (o ile prawo pozwala) określić minimalną powierzchnię działki przypadającą na **lokal** (nie budynek jednorodzinny).
+  * Alernatywnie (o ile prawo budowlane pozwala) określić minimalną powierzchnię działki przypadającą na **lokal** (nie budynek jednorodzinny).
 * Obrona przed zabetonowaniem
   * Wyłączyć z powierzchni biologicznie czynnej dachy i nawierzchnie dróg/parkingów
   * Ewentualnie wliczać ją w 30-50% zamiast jak aktualnie 100%
