@@ -155,55 +155,43 @@ beton_inwestycja_a:
     medium: https://i.ibb.co/gDNR2XL/Wn-trze.jpg
     full: https://i.ibb.co/7GP1fTd/Wn-trze.jpg
     external: https://ibb.co/YtmLCKF
-  - label: Małe ogródki widziane od ulicy
-    desc: Skromna ilość własnej zieleni (ok 30m2) skłania mieszkańców do szczelnego odcięcia swojej przestrzeni od ulicy.
-    thumb: https://i.ibb.co/F71NMKC/Ma-e-ogr-dki-odgrodzone-od-ulicy.jpg
-    medium: https://i.ibb.co/kcTkfxv/Ma-e-ogr-dki-odgrodzone-od-ulicy.jpg
-    full: https://i.ibb.co/j4YB2Ts/Ma-e-ogr-dki-odgrodzone-od-ulicy.jpg
-    external: https://ibb.co/F71NMKC
 beton_inwestycja_b:
   - label: Mapa bazowa
     desc: Widoczne trzy domy w na dwóch działkach oryginalnie jednorodzinnych
-    thumb: https://i.ibb.co/hWpcDPr/mapa-baza-mpzp.png
-    medium: https://i.ibb.co/fpm94hZ/mapa-baza-mpzp.png
-    full: https://i.ibb.co/4TB2P6C/mapa-baza-mpzp.png
-    external: https://ibb.co/hWpcDPr
+    thumb: https://i.ibb.co/9VgHscQ/mapa-baza-mpzp.png
+    medium: https://i.ibb.co/NmC2Ztc/mapa-baza-mpzp.png
+    full: https://i.ibb.co/GtpQcnz/mapa-baza-mpzp.png
+    external: https://ibb.co/9VgHscQ
   - label: Zdjęcie lotnicze inwestycji
     desc: Brak drzew i miejsca na nie w jej obrębie
-    thumb: https://i.ibb.co/xm3W1hw/mapa-Foto-MPZP.png
-    medium: https://i.ibb.co/hXCbBsr/mapa-Foto-MPZP.png
-    full: https://i.ibb.co/yhVt60K/mapa-Foto-MPZP.png
-    external: https://ibb.co/xm3W1hw
+    thumb: https://i.ibb.co/cT3cZKJ/mapa-Foto-MPZP.png
+    medium: https://i.ibb.co/s3RvNpj/mapa-Foto-MPZP.png
+    full: https://i.ibb.co/JktRGWn/mapa-Foto-MPZP.png
+    external: https://ibb.co/cT3cZKJ
   - label: mapa MPZP
     desc: Widoczny podział na dwie działki pod zabudowę jednorodzinną
-    thumb: https://i.ibb.co/YtBckDz/mapa-MPZP.png
-    medium: https://i.ibb.co/GVQW2sK/mapa-MPZP.png
-    full: https://i.ibb.co/0fyCMBg/mapa-MPZP.png
-    external: https://ibb.co/YtBckDz
+    thumb: https://i.ibb.co/rkbF1L5/mapa-MPZP.png
+    medium: https://i.ibb.co/G7snb1C/mapa-MPZP.png
+    full: https://i.ibb.co/zs8Q0LP/mapa-MPZP.png
+    external: https://ibb.co/rkbF1L5
   - label: Oryginalny rozmiar działki pod zabudowę jednorodzinną
-    desc: ok. 400m2
-    thumb: https://i.ibb.co/jyKkjxf/mapa-baza-rozmiar-plan.png
-    medium: https://i.ibb.co/v354Mrq/mapa-baza-rozmiar-plan.png
-    full: https://i.ibb.co/sKS9XDR/mapa-baza-rozmiar-plan.png
-    external: https://ibb.co/jyKkjxf
+    desc: ok. 420m2
+    thumb: https://i.ibb.co/HPWNpGx/mapa-baza-rozmiar-plan.png
+    medium: https://i.ibb.co/rpCbf5c/mapa-baza-rozmiar-plan.png
+    full: https://i.ibb.co/4S6sg4Y/mapa-baza-rozmiar-plan.png
+    external: https://ibb.co/HPWNpGx
   - label: Faktyczny rozmiar działki dla domu dwulokalowego
-    desc: ok. 205m2
-    thumb: https://i.ibb.co/nQrC6bB/mapa-baza-rozmiar-fakt.png
-    medium: https://i.ibb.co/gtyVm3d/mapa-baza-rozmiar-fakt.png
-    full: https://i.ibb.co/dkBgjrt/mapa-baza-rozmiar-fakt.png
-    external: https://ibb.co/nQrC6bB
-  - label: Nasadzenia zastępcze
-    desc: Po trzech latach dwa drzewka jest utrzymywane przez mieszkańców, trzecie jest martwe.
-    thumb: https://i.ibb.co/n0KLQhc/Nasadzenia-zast-pcze.jpg
-    medium: https://i.ibb.co/dcH5kn2/Nasadzenia-zast-pcze.jpg
-    full: https://i.ibb.co/7z01r7W/Nasadzenia-zast-pcze.jpg
-    external: https://ibb.co/n0KLQhc
-  - label: Ogródki powierzchni od 60 do 120m2 na dwa lokale
-    desc: Zbyt małe na utrzymanie zieleni wysokiej
-    thumb: https://i.ibb.co/wCXVP1Y/Ma-e-ogr-dki.jpg
-    medium: https://i.ibb.co/gwpNfC6/Ma-e-ogr-dki.jpg
-    full: https://i.ibb.co/GkLy8jF/Ma-e-ogr-dki.jpg
-    external: https://ibb.co/wCXVP1Y
+    desc: ok. 220m2
+    thumb: https://i.ibb.co/hCyM6CD/mapa-baza-rozmiar-fakt.png
+    medium: https://i.ibb.co/0QcX7Qh/mapa-baza-rozmiar-fakt.png
+    full: https://i.ibb.co/HXV2SXn/mapa-baza-rozmiar-fakt.png
+    external: https://ibb.co/hCyM6CD
+  - label: Teren biologicznie czynny
+    desc: Kostka ażurowa oraz nieudane nasadzenie zastępcze
+    thumb: https://i.ibb.co/C6fP7K0/meba.jpg
+    medium: https://i.ibb.co/VxswSYB/meba.jpg
+    full: https://i.ibb.co/0KxsMyJ/meba.jpg
+    external: https://ibb.co/C6fP7K0
 beton_inwestycja_c:
   - label: Mapa bazowa
     desc: Rozmiar działki planowanej pod zabudowę jednorodzinną to ok. 970m2
@@ -229,15 +217,100 @@ beton_inwestycja_c:
     medium: https://i.ibb.co/G5GNqZK/Meba.jpg
     full: https://i.ibb.co/sVczZT0/Meba.jpg
     external: https://ibb.co/fxZLs3h
-  - label: Całe miejsce przed domami jest utwardzone
-    desc: Brak miejsca na zieleń
-    thumb: https://i.ibb.co/tQcn1nm/Brak-zieleni-z-przodu.jpg
-    medium: https://i.ibb.co/4KMC0Cm/Brak-zieleni-z-przodu.jpg
-    full: https://i.ibb.co/VJDbkbj/Brak-zieleni-z-przodu.jpg
-    external: https://ibb.co/tQcn1nm
-  - label: Ogródki nie sprzyjające wysokiej zieleni
-    desc: Środkowe domy mają ogrórki ok 25m2, skrajne ok. 40m2 i 120m2
-    thumb: https://i.ibb.co/cgw9xQx/Ma-e-ogr-dki-z-ty-u.jpg
-    medium: https://i.ibb.co/FxX1nzn/Ma-e-ogr-dki-z-ty-u.jpg
-    full: https://i.ibb.co/NVrq7K7/Ma-e-ogr-dki-z-ty-u.jpg
-    external: https://ibb.co/cgw9xQx
+park_zielone_kowale_spacer_wiosna:
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/FzKGnWk/IMG-9762.jpg
+    medium: https://i.ibb.co/4p7BJfw/IMG-9762.jpg
+    full: https://i.ibb.co/L184vPD/IMG-9762.jpg
+    external: https://ibb.co/FzKGnWk
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/wRry07N/IMG-9763.jpg
+    medium: https://i.ibb.co/yXB0fpn/IMG-9763.jpg
+    full: https://i.ibb.co/ZV1dLS6/IMG-9763.jpg
+    external: https://ibb.co/wRry07N
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/Bnqsb6C/IMG-9764.jpg
+    medium: https://i.ibb.co/TWmh60g/IMG-9764.jpg
+    full: https://i.ibb.co/FHg72YD/IMG-9764.jpg
+    external: https://ibb.co/Bnqsb6C
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/Yj4NK5r/IMG-9765.jpg
+    medium: https://i.ibb.co/NYgFk04/IMG-9765.jpg
+    full: https://i.ibb.co/5cX1zQ7/IMG-9765.jpg
+    external: https://ibb.co/Yj4NK5r
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/1bKvLrw/IMG-9766.jpg
+    medium: https://i.ibb.co/0QZDcCd/IMG-9766.jpg
+    full: https://i.ibb.co/kM0Hx4W/IMG-9766.jpg
+    external: https://ibb.co/1bKvLrw
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/Hqq72jK/IMG-9767.jpg
+    medium: https://i.ibb.co/3cc1snT/IMG-9767.jpg
+    full: https://i.ibb.co/XttX4qW/IMG-9767.jpg
+    external: https://ibb.co/Hqq72jK
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/3dN3VQk/IMG-9768.jpg
+    medium: https://i.ibb.co/H4zSR3X/IMG-9768.jpg
+    full: https://i.ibb.co/02M71vQ/IMG-9768.jpg
+    external: https://ibb.co/3dN3VQk
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/SJQQMgF/IMG-9769.jpg
+    medium: https://i.ibb.co/Fnssy1R/IMG-9769.jpg
+    full: https://i.ibb.co/Bw44QJ0/IMG-9769.jpg
+    external: https://ibb.co/SJQQMgF
+  - label: Widoki ze spaceru, maj 2022
+  #   desc: FILL IN OR DELETE
+  #   thumb: https://i.ibb.co/7SC2TPh/IMG-9770.jpg
+  #   medium:
+  #   full: https://i.ibb.co/j8fgxmt/IMG-9770.jpg
+    external: https://ibb.co/7SC2TPh
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/QFm9NH4/IMG-9771.jpg
+    medium: https://i.ibb.co/xS5hjgN/IMG-9771.jpg
+    full: https://i.ibb.co/mCzJqy3/IMG-9771.jpg
+    external: https://ibb.co/QFm9NH4
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/hHCHmBK/IMG-9772.jpg
+    medium: https://i.ibb.co/mtStc9H/IMG-9772.jpg
+    full: https://i.ibb.co/jGHGryL/IMG-9772.jpg
+    external: https://ibb.co/hHCHmBK
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/VMvT1Kj/IMG-9779.jpg
+    medium: https://i.ibb.co/YfthCrR/IMG-9779.jpg
+    full: https://i.ibb.co/WBcfhTx/IMG-9779.jpg
+    external: https://ibb.co/VMvT1Kj
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/sHWpLyM/IMG-9793.jpg
+    medium: https://i.ibb.co/Vmw0X2P/IMG-9793.jpg
+    full: https://i.ibb.co/KwKcCF3/IMG-9793.jpg
+    external: https://ibb.co/sHWpLyM
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/DWPs5Jd/IMG-9794.jpg
+    medium: https://i.ibb.co/MSyWMvd/IMG-9794.jpg
+    full: https://i.ibb.co/B3Hdqpk/IMG-9794.jpg
+    external: https://ibb.co/DWPs5Jd
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/DVtH5pJ/IMG-9795.jpg
+    medium: https://i.ibb.co/vwH6ZYF/IMG-9795.jpg
+    full: https://i.ibb.co/sm2dyHf/IMG-9795.jpg
+    external: https://ibb.co/DVtH5pJ
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/61sXw0w/IMG-9796.jpg
+    medium: https://i.ibb.co/MGNBSkS/IMG-9796.jpg
+    full: https://i.ibb.co/txCLKpK/IMG-9796.jpg
+    external: https://ibb.co/61sXw0w
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/0BNb5XH/IMG-9798.jpg
+    medium: https://i.ibb.co/Q8Bw0cy/IMG-9798.jpg
+    full: https://i.ibb.co/pWDFqPY/IMG-9798.jpg
+    external: https://ibb.co/0BNb5XH
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/kgzkfmt/IMG-9799.jpg
+    medium: https://i.ibb.co/hRrhjYS/IMG-9799.jpg
+    full: https://i.ibb.co/7JB85kq/IMG-9799.jpg
+    external: https://ibb.co/kgzkfmt
+  - label: Widoki ze spaceru, maj 2022
+    thumb: https://i.ibb.co/B6nyqNJ/IMG-9800.png
+    medium: https://i.ibb.co/C9Pbh2y/IMG-9800.png
+    full: https://i.ibb.co/6tXHgBS/IMG-9800.png
+    external: https://ibb.co/B6nyqNJ

@@ -35,8 +35,8 @@ files.each do |path|
   # TODO: error handling, yea whatever...
   data = JSON.parse(data)
   puts "    desc: FILL IN OR DELETE"
-  puts "    thumb: #{data['data']['thumb']['url']}"
-  puts "    medium: #{data['data']['medium']['url']}"
-  puts "    full: #{data['data']['image']['url']}"
-  puts "    external: #{data['data']['url_viewer']}"
+  puts "    thumb: #{data.dig('data','thumb', 'url')}"
+  puts "    medium: #{data.dig('data','medium', 'url')}"
+  puts "    full: #{data.dig('data','image', 'url')}"
+  puts "    external: #{data.dig('data','url_viewer')}"
 end
