@@ -105,6 +105,10 @@ Proponowany obszar parku w zbliżeniu:
 
 [![Projekt obszaru Parku](https://i.ibb.co/PzRgyG3/2-Projekt-Parku-Kowale1.jpg "kliknij aby powiększyć"){:class="center"}](https://i.ibb.co/k6pXT2k/2-Projekt-Parku-Kowale1.jpg)
 
-Aktualny stan interioru:
+Stan interioru na luty 2022:
 
 {% include gallery.html id="park_zielone_kowale_spacer" %}
+
+Stan interioru na maj 2022:
+
+{% include gallery.html id="park_zielone_kowale_spacer_wiosna" %}
