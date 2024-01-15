@@ -314,3 +314,30 @@ park_zielone_kowale_spacer_wiosna:
     medium: https://i.ibb.co/C9Pbh2y/IMG-9800.png
     full: https://i.ibb.co/6tXHgBS/IMG-9800.png
     external: https://ibb.co/B6nyqNJ
+kd13_overview:
+  - label: Wizualizacja łącznika KD13
+    thumb: https://i.ibb.co/R6Lf3fN/aerial-overview.png
+    medium: https://i.ibb.co/WzSZkZ0/aerial-overview.png
+    full: https://i.ibb.co/HPm6t6C/aerial-overview.png
+    external: https://ibb.co/R6Lf3fN
+kd13:
+  - label: Aktualny MPZP
+    thumb: https://i.ibb.co/WsfgDR7/mpzp.png
+    medium: https://i.ibb.co/zNZG8tC/mpzp.png
+    full: https://i.ibb.co/4JpPs0C/mpzp.png
+    external: https://ibb.co/WsfgDR7
+  - label: Struktura własności
+    thumb: https://i.ibb.co/ygbRMRK/w-asno.png
+    medium: https://i.ibb.co/1RwnpnB/w-asno.png
+    full: https://i.ibb.co/GCbJ1JG/w-asno.png
+    external: https://ibb.co/ygbRMRK
+  - label: Propozycja zagospodarowania
+    thumb: https://i.ibb.co/chg0jLz/propozycja-full.png
+    medium: https://i.ibb.co/hF7bSfp/propozycja-full.png
+    full: https://i.ibb.co/m5Dk38Q/propozycja-full.png
+    external: https://ibb.co/chg0jLz
+  - label: Propozycja zagospodarowania
+    thumb: https://i.ibb.co/m0Hmh6V/foto-propozycja.png
+    medium: https://i.ibb.co/pQ3g4JB/foto-propozycja.png
+    full: https://i.ibb.co/HCr0Gnf/foto-propozycja.png
+    external: https://ibb.co/m0Hmh6V

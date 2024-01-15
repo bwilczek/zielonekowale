@@ -13,6 +13,7 @@ Niniejsza witryna jest miejcem publikacji naszych obserwacji i proponowanych roz
 które będziemy chcieli wprowadzać w życie we współpracy z Radą Osiedla.
 
 Poniżej lista przygotowanych opracowań:
+* [Łącznik KD13](/kd13/), czyli plan na wycięcie 50 drzew i wprowadzenie tranzytu w okolice CAL i placu zabaw
 * [Skazani na beton](/skazani_na_beton/), czyli jak MPZP pozwala zabetonować nasze osiedle
 * [Dolina Widawy](/widawa/): zagrożona oaza zieleni
 * [Auto w mieście](/auto_w_miescie/), czyli skąd się biorą korki
