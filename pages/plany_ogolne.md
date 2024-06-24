@@ -30,6 +30,6 @@ Podstawowa instrukcja:
 * w razie pytań proszę kontaktować się z nami przez [nasz fanpage](http://fb.me/zielonekowale)
 
 Poniżej inne przydatne dokumenty:
-* [Instrukcja wypełniania wniosku](https://www.wroclaw.pl/beta2/files/dokumenty/573584/Instrukcja%20wype%C5%82nienia%20wniosku%20-%20plan%20og%C3%B3lny.pdf)
+* [Instrukcja wypełniania wniosku](https://www.wroclaw.pl/beta2/files/dokumenty/573584/Instrukcja%20wype%C5%82nienia%20wniosku%20-%20plan%20og%C3%B3lny_v2.pdf)
 * [Formularz wniosku](https://bip.um.wroc.pl/attachments/download/143861)
 
