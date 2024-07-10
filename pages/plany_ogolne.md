@@ -25,6 +25,8 @@ Poniżej udostępniamy wnioski, które sami składamy w Wydziale. Zachęcamy do 
 * [Wniosek o budowę przejścia dla pieszych do Korony](https://www.dropbox.com/scl/fi/zc078bpwzaf8h7ph0p0k6/WPL_plan_ogolny_-formularz_wniosek_app_maj2024-korona.pdf?rlkey=se3b4bvie6ns7lhjv1dboe01a&st=u24wuvod&dl=1). Żeby nie czekać siedem razy na światłach.
 * [Wniosek o budowę kładki nad Widawą łączącej Kowale i Zgorzelisko](https://www.dropbox.com/scl/fi/wi845397442fvk1b05e71/WPL_plan_ogolny_-formularz_wniosek_app_maj2024-trasa-k-adka.pdf?rlkey=rtozra09yphjiyhebtf0bjib7&st=hyw2zya9&dl=1)
 * [Wniosek o budowę przejścia przez tory kolejowe w ciągu ul. Węgoborskiej](https://www.dropbox.com/scl/fi/1tpwivbhqcqi1v5pavc7s/WPL_plan_ogolny_-formularz_wniosek_app_maj2024-w-goborska.pdf?rlkey=yr4ulr9ue8g1rzp4xfwpfjoty&st=y1ld983p&dl=1)
+* [Wniosek o poprowadzenie łącznika Kwidzyńska-Kowalska do Mydlanej](https://www.dropbox.com/scl/fi/roc4dofy1guiitwfvrfbl/WPL_plan_ogolny_-formularz_wniosek_app_maj2024-lacznik-kk.pdf?rlkey=6dptswgz8hbpjenyoiitpta95&st=sm5clr7m&dl=1)
+
 
 Podstawowa instrukcja:
 * proszę zaznaczyć punkty 2.1 i 3.1
