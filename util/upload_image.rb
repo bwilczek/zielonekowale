@@ -39,4 +39,5 @@ files.each do |path|
   puts "    medium: #{data.dig('data','medium', 'url')}"
   puts "    full: #{data.dig('data','image', 'url')}"
   puts "    external: #{data.dig('data','url_viewer')}"
+  sleep 1
 end

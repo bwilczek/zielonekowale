@@ -341,3 +341,87 @@ kd13:
     medium: https://i.ibb.co/pQ3g4JB/foto-propozycja.png
     full: https://i.ibb.co/HCr0Gnf/foto-propozycja.png
     external: https://ibb.co/m0Hmh6V
+interior_2025_1:
+  - label: MPZP z 2005
+    desc:
+    thumb: https://i.ibb.co/0VR0krkp/pic-1-MPZP.png
+    medium: https://i.ibb.co/VpcFdTd0/pic-1-MPZP.png
+    full: https://i.ibb.co/prBHgdg6/pic-1-MPZP.png
+    external: https://ibb.co/0VR0krkp
+interior_2025_2:
+  - label: Studium z 2018
+    desc:
+    thumb: https://i.ibb.co/tpfGHD4y/pic-2-Studium.png
+    medium: https://i.ibb.co/F4vrhzKG/pic-2-Studium.png
+    full: https://i.ibb.co/B2DpfBt8/pic-2-Studium.png
+    external: https://ibb.co/tpfGHD4y
+interior_2025_3:
+  - label: Działka Koelnerów
+    desc:
+    thumb: https://i.ibb.co/3YNhvPdW/pic-3-dzia-ka-Koelner-w.png
+    medium: https://i.ibb.co/tPsCz1Kc/pic-3-dzia-ka-Koelner-w.png
+    full: https://i.ibb.co/5x8ckJ4v/pic-3-dzia-ka-Koelner-w.png
+    external: https://ibb.co/3YNhvPdW
+interior_2025_5:
+  - label: Park Spokojny Las
+    desc:
+    thumb: https://i.ibb.co/0pfJH0BN/pic-5-park.png
+    medium: https://i.ibb.co/nqDkxX32/pic-5-park.png
+    full: https://i.ibb.co/NgLYc01h/pic-5-park.png
+    external: https://ibb.co/0pfJH0BN
+interior_2025_6:
+  - label: Koncepcja Rawlplug
+    desc:
+    thumb: https://i.ibb.co/v78qPwd/pic-6-rawlp.png
+    medium: https://i.ibb.co/46xtTmS/pic-6-rawlp.png
+    full: https://i.ibb.co/V789SjC/pic-6-rawlp.png
+    external: https://ibb.co/v78qPwd
+interior_2025_7:
+  - label: Działki wystawione na sprzedaż
+    desc:
+    thumb: https://i.ibb.co/4RC6Xvgz/pic-7-sprzeda.png
+    medium: https://i.ibb.co/qYhtcqFK/pic-7-sprzeda.png
+    full: https://i.ibb.co/Wv7bM8pZ/pic-7-sprzeda.png
+    external: https://ibb.co/4RC6Xvgz
+interior_2025_8:
+  - label: Rekomendacja ZZM
+    desc:
+    thumb: https://i.ibb.co/KZWpjJJ/pic-8-ZZM.png
+    medium: https://i.ibb.co/Y9hF7xx/pic-8-ZZM.png
+    full: https://i.ibb.co/STB4Xzz/pic-8-ZZM.png
+    external: https://ibb.co/KZWpjJJ
+interior_2025_9:
+  - label: Pikieta
+    desc:
+    thumb: https://i.ibb.co/zVVSqCyG/pic-9-pikieta.png
+    medium: https://i.ibb.co/xqqMxwpJ/pic-9-pikieta.png
+    full: https://i.ibb.co/Dff70mx5/pic-9-pikieta.png
+    external: https://ibb.co/zVVSqCyG
+interior_2025_10:
+  - label: Zbieranie podpisów pod wnioskami do Planów Ogólnych
+    desc:
+    thumb: https://i.ibb.co/9HRYHdRx/pic-10-spotkanie.png
+    medium: https://i.ibb.co/tpyCp1y0/pic-10-spotkanie.png
+    full: https://i.ibb.co/QvsmvxsW/pic-10-spotkanie.png
+    external: https://ibb.co/9HRYHdRx
+interior_2025_11:
+  - label: Inwentaryzacja przyrodnicza UWr
+    desc:
+    thumb: https://i.ibb.co/ccFb9CMv/pic-11-oprac-UWr.png
+    medium: https://i.ibb.co/3yNfbMGs/pic-11-oprac-UWr.png
+    full: https://i.ibb.co/pvzWTRGP/pic-11-oprac-UWr.png
+    external: https://ibb.co/ccFb9CMv
+interior_2025_12:
+  - label: Warianty przebiegu tramwaju na Psie Pole
+    desc:
+    thumb: https://i.ibb.co/MDF1rgQ9/pic-12-tramwaj.png
+    medium: https://i.ibb.co/qMTgKDVx/pic-12-tramwaj.png
+    full: https://i.ibb.co/PZqWKr0t/pic-12-tramwaj.png
+    external: https://ibb.co/MDF1rgQ9
+interior_2025_13:
+  - label: Ukształtowanie terenu
+    desc:
+    thumb: https://i.ibb.co/p6jPg77C/pic-13-teren.png
+    medium: https://i.ibb.co/DPfbNJJ3/pic-13-teren.png
+    full: https://i.ibb.co/gbZ7G22s/pic-13-teren.png
+    external: https://ibb.co/p6jPg77C

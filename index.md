@@ -12,14 +12,9 @@ Nasze działania skupiają się głównie w obszarach komunikacji i zieleni.
 Niniejsza witryna jest miejcem publikacji naszych obserwacji i proponowanych rozwiązań,
 które będziemy chcieli wprowadzać w życie we współpracy z Radą Osiedla.
 
-## ⬇️⬇️⬇️ UWAGA ⬇️⬇️⬇️
-
-**Aktualnie naszym najwyższym priorytetem jest zaangażowanie w tworzenie Planów Ogólnych**.
-Listę wniosków, które wysyłamy do Wydziału Planowania Przestrzennego można znaleźć **[tutaj](/plany_ogolne/)**.
-
-## ⬆️⬆️⬆️ UWAGA ⬆️⬆️⬆️
-
 Poniżej lista przygotowanych opracowań:
+* [Park Kowale (stan na maj 2025)](/park-kowale-2025/) - historia i scenariusze na przyszłość
+* [Wnioski do Planów Ogólnych](/plany_ogolne/) - do wydrukowania na akcję podpisywania w 2024
 * [Łącznik KD13](/kd13/), czyli plan na wycięcie 50 drzew i wprowadzenie tranzytu w okolice CAL i placu zabaw
 * [Skazani na beton](/skazani_na_beton/), czyli jak MPZP pozwala zabetonować nasze osiedle
 * [Dolina Widawy](/widawa/): zagrożona oaza zieleni
