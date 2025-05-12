@@ -1,0 +1,11 @@
+{% assign image = site.data.galleries[include.id][0] %}
+
+<div style="text-align: center;">
+  <img class="gallery" src="{{image.medium}}" title="{{image.label}}" />
+  <div>{{image.label}}</div>
+  {% if image.desc %}
+  <div class="image-description">{{image.desc}}</div>
+  {% endif %}
+  <a class="full-size-download" href="{{image.full}}" target="_blank">pełna rozdzielczość</a>
+  <br />
+</div>
