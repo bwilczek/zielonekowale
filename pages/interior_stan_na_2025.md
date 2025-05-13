@@ -176,6 +176,7 @@ W wersji bardzo optymistycznej może to być pewien kompromis między zachowanie
 * zabudowę mieszkaniową.
 
 Konieczne byłoby przemodelowanie siatki ciągów komunikacyjnych z jezdni na ciągi komunikacji zbiorowej, drogi rowerowe i piesze. Daje to szansę na wyczekiwane przez mieszkańców skomunikowanie podzielonych części osiedla Kowale przez dostępny i bezpieczny greenway. Taki plan jest możliwy do realizacji na drodze szerokich konsultacji ze specjalistami z różnych dziedzin, negocjacji z Radą Miejską oraz mieszkańcami.
+
 W realistyczno-pesymistycznej wersji tego scenariusza Wydział Planowania Przestrzennego UM wprost kopiuje złe rozwiązania z Planu i Studium i będzie scenariusz 1 lub 2.
 
 **SCENARIUSZ 4** - „turbozielony” - w zgodzie z analizą ZZM, inwentaryzacją przyrodniczą i w zgodzie z Miejskim planem adaptacji do zmian klimatu ([MPA](https://www.wroclaw.pl/zielony-wroclaw/miejski-plan-adaptacji-do-zmian-klimatu)).
